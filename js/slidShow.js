@@ -1,29 +1,17 @@
 let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
-"https://www.waseda.jp/top/assets/uploads/2014/03/hidemaro-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/maejima-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/hatoyama-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/takada-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/amano-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/hiranuma-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/shiozawa-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/shigenobu-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/nobutune-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/shiozawa-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/tanaka-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/nakano-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/shimada-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/ohama-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/abe-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/tokigoyama-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/murai-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/shimizu-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/nishihara-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/koyama-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/okujima-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/shirai-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2018/12/kamata.jpg"
+"file:///Users/mhwhum/Downloads/793178FA-97FC-4DD2-ABD2-4B2B6038793F.jpg",
+"file:///Users/mhwhum/Downloads/E09B87FA-2C1F-4C54-9C7A-5E0E8A61FFF7.jpg",
+"file:///Users/mhwhum/Downloads/5EF671F0-84B7-47C0-A937-FAC8C0AD0BCC.jpg",
+"file:///Users/mhwhum/Downloads/FED090FD-7892-4E27-9D00-907A9A038E38.jpg",
+"file:///Users/mhwhum/Downloads/5822FE3B-B86A-4CBC-A4CC-79590B80B1D7.jpg",
+"file:///Users/mhwhum/Downloads/201FB10F-6FDB-4398-9995-349D24CAC359.jpg",
+"file:///Users/mhwhum/Downloads/3BDE204F-50F9-4606-8ADF-D92DC3EA5FD8.jpg",
+"file:///Users/mhwhum/Downloads/3BA15E5A-FE54-4BC5-89DB-0FA9657E090B.jpg",
+"file:///Users/mhwhum/Downloads/5664CEBE-7C4D-4775-8F98-DFC00E009AF9.jpg",
+"file:///Users/mhwhum/Downloads/23706CDD-CB25-4ADB-A7F9-A5809B7700FB.jpg",
+
 ];
 
 function left() {
